@@ -5,7 +5,7 @@ This example app shows how to create a Spring Boot API and CRUD (create, read, u
 and [Yarn](https://yarnpkg.com/en/docs/install). You can use npm instead of Yarn, but you'll need to translate the Yarn syntax to npm.
 
 * [Getting Started](#getting-started)
-* [update from](#update from)
+* [update from](#update-from)
 * [License](#license)
 
 ## Getting Started
