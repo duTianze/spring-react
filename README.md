@@ -12,7 +12,7 @@ and [Yarn](https://yarnpkg.com/en/docs/install). You can use npm instead of Yarn
 To install this example application, run the following commands:
 
 ```bash
-git clone https://github.com/duTianze/spring-react.git spring-react
+git clone https://github.com/duTianze/spring-react.git
 cd spring-react
 ```
 
